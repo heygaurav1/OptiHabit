@@ -1,4 +1,4 @@
-# Smart Habit Tracker with AI 🧠✨
+# OptiHabit
 
 A beautiful, intelligent habit tracking iOS app built with **SwiftUI** that helps users build lasting habits through smart insights, AI suggestions, and on-device intelligence.
 
