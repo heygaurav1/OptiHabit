@@ -1,1 +1,1 @@
-# Smart-Habit-Tracker-with-AI-
+# Smart-Habit-Tracker-with-AI
